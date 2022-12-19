@@ -31,3 +31,8 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+
+### 本地数据库操作
+导入export_202212191612.sql配置config.default.js下配置数据库名称及用户名密码
+
